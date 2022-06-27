@@ -1,5 +1,5 @@
 ---
-title: 介绍
+title: 学术版
 type: docs
 ---
 
