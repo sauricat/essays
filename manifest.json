@@ -1,0 +1,15 @@
+{
+  "name": "Shu 的文章储存库",
+  "short_name": "Shu 的文章储存库",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
