@@ -1,7 +1,8 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'https://example.com/'
-title = 'Hugo Book'
+baseURL = 'https://2.shu-l.in/'
+title = 'Shu 的文章储存库'
+subtitle = '第 2 分站 — 学术版'
 theme = 'book'
 
 # Book configuration
@@ -9,12 +10,12 @@ disablePathToLower = true
 enableGitInfo = true
 
 # Needed for mermaid/katex shortcodes
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
+# [markup]
+# [markup.goldmark.renderer]
+#   unsafe = true
 
-[markup.tableOfContents]
-  startLevel = 1
+# [markup.tableOfContents]
+#   startLevel = 1
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -38,20 +39,20 @@ enableGitInfo = true
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
+# [[menu.after]]
+#   name = "Github"
+#   url = "https://github.com/alex-shpak/hugo-book"
+#   weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
+# [[menu.after]]
+#   name = "Hugo Themes"
+#   url = "https://themes.gohugo.io/hugo-book/"
+#   weight = 20
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'light'
+  BookTheme = 'auto'
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
@@ -73,7 +74,7 @@ enableGitInfo = true
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  # BookRepo = 'https://github.com/sauricat/essays'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
@@ -85,7 +86,7 @@ enableGitInfo = true
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  BookEditPath = 'edit/main/exampleSite'
+  # BookEditPath = 'edit/main/exampleSite'
 
   # Configure the date format used on the pages
   # - In git information
@@ -95,13 +96,13 @@ enableGitInfo = true
   # (Optional, default true) Enables search function with flexsearch,
   # Index is built on fly, therefore it might slowdown your website.
   # Configuration for indexing can be adjusted in i18n folder per language.
-  BookSearch = true
+  BookSearch = false
 
   # (Optional, default true) Enables comments template on pages
   # By default partals/docs/comments.html includes Disqus template
   # See https://gohugo.io/content-management/comments/#configure-disqus
   # Can be overwritten by same param in page frontmatter
-  BookComments = true
+  BookComments = false
 
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
