@@ -44,10 +44,15 @@ enableGitInfo = true
 #   url = "https://github.com/alex-shpak/hugo-book"
 #   weight = 10
 
-# [[menu.after]]
-#   name = "Hugo Themes"
-#   url = "https://themes.gohugo.io/hugo-book/"
-#   weight = 20
+[[menu.after]]
+  name = "本站文章采用 CC BY 4.0 协议许可"
+  url = "https://creativecommons.org/licenses/by/4.0/"
+  weight = 200
+
+[[menu.after]]
+  name = "© Shu Lin 2021-2022"
+  url = "https://shu-l.in/about/shu"
+  weight = 201
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
