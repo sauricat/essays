@@ -1,8 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://2.shu-l.in/'
-title = 'Shu 的文章储存库'
-subtitle = '第 2 分站 — 学术版'
+title = '2.Shu-L.in'
 theme = 'book'
 
 # Book configuration
@@ -23,19 +22,14 @@ enableGitInfo = true
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
 [languages]
 [languages.en]
+  languageName = 'English'
+  contentDir = 'content'
+  weight = 2
+
+[languages.zh]
   languageName = 'Chinese'
   contentDir = 'content.zh'
   weight = 1
-
-# [languages.ru]
-#   languageName = 'Russian'
-#   contentDir = 'content.ru'
-#   weight = 2
-
-# [languages.zh]
-#   languageName = 'Chinese'
-#   contentDir = 'content.zh'
-#   weight = 3
 
 [menu]
 # [[menu.before]]
@@ -44,15 +38,15 @@ enableGitInfo = true
 #   url = "https://github.com/alex-shpak/hugo-book"
 #   weight = 10
 
-[[menu.after]]
-  name = "本站文章采用 CC BY 4.0 协议许可"
-  url = "https://creativecommons.org/licenses/by/4.0/"
-  weight = 200
+# [[menu.after]]
+#   name = "本站文章采用 CC BY 4.0 协议许可"
+#   url = "https://creativecommons.org/licenses/by/4.0/"
+#   weight = 200
 
-[[menu.after]]
-  name = "© Shu Lin 2021-2022"
-  url = "https://shu-l.in/about/shu"
-  weight = 201
+# [[menu.after]]
+#   name = "© Shu Lin 2021-2022"
+#   url = "https://shu-l.in/about/shu"
+#   weight = 201
 
 [params]
   # (Optional, default light) Sets color theme: light, dark or auto.
