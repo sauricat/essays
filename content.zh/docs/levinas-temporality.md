@@ -145,3 +145,8 @@ Oliver, Kelly (2001) “Paternal Election and the Absent Father,” In: Chanter,
 Perpich, Diane (2001) “From the Caress to the Word: Transcendence and the Feminine in the Philosophy of Emmanuel Lévinas,” In: Chanter, Tina (ed.), Feminist Interpretations of Emmanuel Lévinas, University Park: The Pennsylvania State University Press.
 
 Stanford, Stella (2002) “Lévinas, feminism and the feminine,” In: Critchley, Simon, and Bernasconi, Robert (ed.), The Cambridge Companion to Lévinas, Cambridge: Cambridge University Press. 
+[^1]: 例如，在海德格尔的《存在与时间》中，他就批评柏格森对时间的讨论仅仅是对亚里士多德时间观的解释，甚至不值得去严肃讨论（Heidegger 1962: 500 n. xxx）。尽管后来海德格尔在《现象学的基本问题》一书中又显示出了对柏格森的兴趣，但他仍然坚持认为柏格森误解了亚里士多德的时间概念，而后者才是真正现象学式的，并且值得被重新发掘（Massey 2015: 145–146）。
+
+[^2]: 对于荣格而言，男性心灵中拥有女性形象的原型，以及女性心灵中拥有男性形象的原型，都是一种非常普遍的现象。这些原型是男性的女性气质以及女性的男性气质的来源。
+
+[^3]: 在英文翻译中，某些译者可能会用小写的 “other” 和大写的 “Other” 来区分二者（见 TI 24n），但这种区分在中文语境下却显得有些难以操作。另一方面，列维纳斯本人对此的区分也并非清晰，并且即使 autrui 一词是人格化的，有时仍然可以指涉那个非人格化的无限。因此，为了论述方便，在本文中，我们也将不区分两种「他者」或「他人」，而统一处理为「他者」，仅仅在必要时更改翻译并加括号注释。
