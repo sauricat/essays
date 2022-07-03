@@ -13,7 +13,7 @@ comment: false
 
 ## 问题与方法
 
-作为一种文化运动的「柏格森主义」（Bergsonism）在 20 世纪头 30 年的昙花一现并不能掩盖柏格森思想的光辉。然而，这位曾因与爱因斯坦的辩论广为认知的哲学家、诺贝尔文学奖得主，其思想却在生前身后经历了多舛的命运。柏格森关于意识绵延和生命冲力（élan vital）的理论广为人知，在社会学和历史学领域也被广泛应用。但在哲学领域，似乎柏格森总是在「替别人做嫁衣」。柏格森的绵延理论和生命哲学很大程度上影响了20世纪的现象学和存在主义，但其发挥影响的方式却是被后者无情批判甚至有意无视。胡塞尔、萨特、海德格尔等现象学与存在主义哲学先驱对柏格森的贬低，则在很长一段时间里使其沦为各种哲学论文脚注里可引可不引的「幽灵」。在《存在与时间》的一个脚注中（Heidegger 1962: 500, H. 432 n. xxx），海德格尔认为柏格森的时间观无非是对亚里士多德的解释，没有必要加以仔细讨论。而在《现象学的基本问题》中，海德格尔虽然展现出对柏格森时间哲学的兴趣，但他仍然批评道，柏格森的时间观来自于其对亚里士多德的误解，即将亚里士多德的时间观误解为「时间即空间」。在海德格尔看来，未被误解的亚里士多德时间观才是真正现象学式的。（Massey 2015: 145）由此可见，与其说海德格尔在对柏格森加以批评，不如说他或许自始至终没有将柏格森看作一个值得重视的思想对手。海德格尔对柏格森的理解只不过从属于其对亚里士多德进而对整个西方古典传统的理解，而柏格森的命运由此可见一斑。
+作为一种文化运动的「柏格森主义」（Bergsonism）在20世纪头30年的昙花一现并不能掩盖柏格森思想的光辉。然而，这位曾因与爱因斯坦的辩论广为认知的哲学家、诺贝尔文学奖得主，其思想却在生前身后经历了多舛的命运。柏格森关于意识绵延和生命冲力（élan vital）的理论广为人知，在社会学和历史学领域也被广泛应用。但在哲学领域，似乎柏格森总是在「替别人做嫁衣」。柏格森的绵延理论和生命哲学很大程度上影响了20世纪的现象学和存在主义，但其发挥影响的方式却是被后者无情批判甚至有意无视。胡塞尔、萨特、海德格尔等现象学与存在主义哲学先驱对柏格森的贬低，则在很长一段时间里使其沦为各种哲学论文脚注里可引可不引的「幽灵」。在《存在与时间》的一个脚注中（Heidegger 1962: 500, H. 432 n. xxx），海德格尔认为柏格森的时间观无非是对亚里士多德的解释，没有必要加以仔细讨论。而在《现象学的基本问题》中，海德格尔虽然展现出对柏格森时间哲学的兴趣，但他仍然批评道，柏格森的时间观来自于其对亚里士多德的误解，即将亚里士多德的时间观误解为「时间即空间」。在海德格尔看来，未被误解的亚里士多德时间观才是真正现象学式的。（Massey 2015: 145）由此可见，与其说海德格尔在对柏格森加以批评，不如说他或许自始至终没有将柏格森看作一个值得重视的思想对手。海德格尔对柏格森的理解只不过从属于其对亚里士多德进而对整个西方古典传统的理解，而柏格森的命运由此可见一斑。
 
 20世纪后半叶，德勒兹明确地打出「回到柏格森」的口号，将柏格森的哲学以差异哲学的视角重新加以阐发（Guerlac 2006: 173），使得柏格森与整个法国哲学传统一同得到了复兴。列维纳斯在与菲利普·尼莫的访谈中激赏柏格森，认为其在本体论层面上打破了线性的钟表时间，「使得时间之本己的（propre）和不可还原的实在性得到了彰显。」（列维纳斯 2020: 10）将柏格森作为现象学的先驱来理解，也是一种较为普遍的进路（高宣扬 2008），尽管这也使其时常要与20世纪后期的法国现象学共同面对一种背离现象学作为「严格科学」（rigorous science）传统，走向直觉主义、神秘主义乃至神学转向的批评。（Janicaud 2000: 88）
 
@@ -137,7 +137,7 @@ Banville, John (2016) “What do clocks have to do with it?” London Review of 
 
 Bergson, Henri (1965) Duration and Simultaneity, tr. Jacobson, Leon, The Bobbs-Merrill Company.
 
-Bergson, Henri (2001) Time and Free Will: An Essay on the Immediate Data of Consciousness, tr. Pogson, F. L., Dover Publications.
+~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~ (2001) Time and Free Will: An Essay on the Immediate Data of Consciousness, tr. Pogson, F. L., Dover Publications.
 
 Canales, Jimena (2015) The Physicist and The Philosopher: Einstein, Bergson, and the Debate That Changed Our Understanding of Time, Princeton University Press.
 
@@ -151,7 +151,7 @@ Gunter, Pete A. Y. (1982) “Bergson and Jung,” Journal of the History of Idea
 
 Heidegger, Martin (1962) Being and Time, tr. Macquarrie, John, et al., Harper & Row.
 
-Heidegger, Martin (1975) The Basic Problems of Phenomenology, tr. Hofstadter, Albert, Indiana University Press.
+~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~ (1975) The Basic Problems of Phenomenology, tr. Hofstadter, Albert, Indiana University Press.
 
 Husserl, Edmund (1964) The Idea of Phenomenology, tr. Hardy, Lee, Kluwer Academic Publishers.
 
